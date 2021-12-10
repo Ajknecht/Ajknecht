@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\bin\Debug\net5.0\AndrewKnechtQuadaxMasterMind.exe
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\bin\Debug\net5.0\AndrewKnechtQuadaxMasterMind.deps.json
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\bin\Debug\net5.0\AndrewKnechtQuadaxMasterMind.runtimeconfig.json
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\bin\Debug\net5.0\AndrewKnechtQuadaxMasterMind.runtimeconfig.dev.json
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\bin\Debug\net5.0\AndrewKnechtQuadaxMasterMind.dll
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\bin\Debug\net5.0\ref\AndrewKnechtQuadaxMasterMind.dll
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\bin\Debug\net5.0\AndrewKnechtQuadaxMasterMind.pdb
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\obj\Debug\net5.0\AndrewKnechtQuadaxMasterMind.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\obj\Debug\net5.0\AndrewKnechtQuadaxMasterMind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\obj\Debug\net5.0\AndrewKnechtQuadaxMasterMind.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\obj\Debug\net5.0\AndrewKnechtQuadaxMasterMind.AssemblyInfo.cs
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\obj\Debug\net5.0\AndrewKnechtQuadaxMasterMind.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\obj\Debug\net5.0\AndrewKnechtQuadaxMasterMind.dll
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\obj\Debug\net5.0\ref\AndrewKnechtQuadaxMasterMind.dll
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\obj\Debug\net5.0\AndrewKnechtQuadaxMasterMind.pdb
+C:\Users\Student\source\repos\AndrewKnechtQuadaxMasterMind\obj\Debug\net5.0\AndrewKnechtQuadaxMasterMind.genruntimeconfig.cache

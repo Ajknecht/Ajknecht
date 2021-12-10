@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AndrewKnechtQuadaxMasterMind/1.0.0": {
+        "runtime": {
+          "AndrewKnechtQuadaxMasterMind.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AndrewKnechtQuadaxMasterMind/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
